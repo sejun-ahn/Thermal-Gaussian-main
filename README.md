@@ -1,9 +1,10 @@
 # THERMALGAUSSIAN: THERMAL 3D GAUSSIAN SPLATTING
 
-### [[Paper](https://arxiv.org/abs/2409.07200)]
 Rongfeng Lu<sup>1,3</sup> , Hangyu Chen<sup>1</sup> , Zunjie Zhu<sup>1,3</sup> , Yuhang Qin<sup>1,</sup> , Ming Lu<sup>2,</sup> , Le Zhang<sup>1,</sup> , Chenggang Yan<sup>1,</sup> , Anke Xue<sup>1,</sup>
 
 <sup>1</sup>Hangzhou Dianzi University, <sup>2</sup>Intel Labs China, <sup>3</sup>Lishui Institute of Hangzhou Dianzi University
+
+### [[Paper](https://arxiv.org/abs/2409.07200)] | [[Dataset](https://drive.google.com/drive/folders/1xuPwqezNW_LSB5C-H8TQFJ7nLoSS2BOg?usp=drive_link)] | [[Project Page](https://thermalgaussian.github.io/)]
 
 ## Abstract:
 *Thermography is especially valuable for the military and other users of surveillance cameras. Some recent methods based on Neural Radiance Fields (NeRF) are proposed to reconstruct the thermal scenes in 3D from a set of thermal and RGB images. However, unlike NeRF, 3D Gaussian splatting (3DGS) prevails due to its rapid training and real-time rendering. In this work, we propose ThermalGaussian, the first thermal 3DGS approach capable of rendering high-quality images in RGB and thermal modalities. We first calibrate the RGB camera and the thermal camera to ensure that both modalities are accurately aligned. Subsequently, we use the registered images to learn the multimodal 3D Gaussians. To prevent the overfitting of any single modality, we introduce several multimodal regularization constraints. We also develop smoothing constraints tailored to the physical characteristics of the thermal modality. Besides, we contribute a real-world dataset named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating future research on thermal scene reconstruction. We conduct comprehensive experiments to show that ThermalGaussian achieves photorealistic rendering of thermal images and improves the rendering quality of RGB images. With the proposed multimodal regularization constraints, we also reduced the model’s storage cost by 90%. Our project page is at https://thermalgaussian.github.io/.*
