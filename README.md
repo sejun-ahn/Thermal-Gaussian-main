@@ -1,6 +1,6 @@
 # THERMALGAUSSIAN: THERMAL 3D GAUSSIAN SPLATTING
 
-Rongfeng Lu<sup>1,3,*,†</sup> , Hangyu Chen<sup>1,*</sup> , Zunjie Zhu<sup>1,3</sup> , Yuhang Qin<sup>1</sup> , Ming Lu<sup>2</sup> , Le Zhang<sup>1</sup> , Chenggang Yan<sup>1</sup> , Anke Xue<sup>1,†</sup>
+Rongfeng Lu<sup>1,3,∗,†</sup> , Hangyu Chen<sup>1,∗</sup> , Zunjie Zhu<sup>1,3</sup> , Yuhang Qin<sup>1</sup> , Ming Lu<sup>2</sup> , Le Zhang<sup>1</sup> , Chenggang Yan<sup>1</sup> , Anke Xue<sup>1,†</sup>
 
 <sup>1</sup>Hangzhou Dianzi University, <sup>2</sup>Intel Labs China, <sup>3</sup>Lishui Institute of Hangzhou Dianzi University
 
