@@ -64,7 +64,7 @@ To train and evaluate the model, use the following command-line arguments:
 - `-s` to specify the input path (required)
 - `-m` to specify the output path (optional)
 
-The input path must be provided, while the output path is optional. If you do not specify an output directory (`-m`), trained models will be saved in folders with randomized unique names inside the `output` directory. Once trained, models can be visualized using the real-time viewer.
+The input path must be provided, while the output path is optional. If you do not specify an output directory (`-m`), trained models will be saved in folders with randomized unique names inside the `output` directory.
 
 ## Training and Evaluation
 
