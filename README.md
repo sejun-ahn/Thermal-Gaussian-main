@@ -88,7 +88,7 @@ python metrics.py -m <path to trained model>  # Compute error metrics on renderi
 
 For OMMG version:
 
-Switch to the OMMG branch of this project because the code is different from the MSMG and MFTG versions
+Switch to the OMMG branch of this project because the code is different from the MSMG and MFTG versions, and reinstall submodules/diff-gaussian-rasterization.
 
 - `train_MSMG.py` → **Multiple Single-Modal Gaussians (MSMG)**
 - `train_MFTG.py` → **Multimodal Fine-Tuning Gaussians (MFTG)**
