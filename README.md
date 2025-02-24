@@ -86,8 +86,13 @@ python render.py -m <path to trained model>  # Generate renderings
 python metrics.py -m <path to trained model>  # Compute error metrics on renderings
 ```
 
+For OMMG version:
+
+Switch to the OMMG branch of this project because the code is different from the MSMG and MFTG versions
+
 - `train_MSMG.py` → **Multiple Single-Modal Gaussians (MSMG)**
 - `train_MFTG.py` → **Multimodal Fine-Tuning Gaussians (MFTG)**
+- `train_OMMG.py` → **One Multi-Modal Gaussian (OMMG)**
 
 ## Example
 
