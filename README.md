@@ -156,7 +156,7 @@ If you use this project in your research, please cite it as follows:
 ```
 @article{lu2024thermalgaussian,
   title={ThermalGaussian: Thermal 3D Gaussian Splatting},
-  author={Lu, Rongfeng and Chen, Hangyu and Zhu, Zunjie and Qin, Yuhang and Lu, Ming   and Zhang, Le and Yan, Chenggang and Xue, Anke},
+  author={Lu, Rongfeng and Chen, Hangyu and Zhu, Zunjie and Qin, Yuhang and Lu, Ming and Zhang, Le and Yan, Chenggang and Xue, Anke},
   journal={arXiv preprint arXiv:2409.07200},
   year={2024}
 }
