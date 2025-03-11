@@ -28,7 +28,9 @@ conda activate thermal_gaussian
 ## Data Preparation
 You could download our own dataset RGBT-Scenes directly from [Google Drive](https://drive.google.com/drive/folders/1xuPwqezNW_LSB5C-H8TQFJ7nLoSS2BOg?usp=drive_link).
 
-Because our work can realize the reconstruction of color and temperature multimodal scenes，so We read the color image and the thermal image at the same time, and you need to manually divide the train set and the test set, that is, there are two folders named "rgb" and "thermal" to store the color image and the thermal image respectively, and each folder is divided into "test" and "train" folders,As follows:
+Because our work can realize the reconstruction of color and temperature multimodal scenes，so We read the color image and the thermal image at the same time, and you need to manually divide the train set and the test set, that is, there are two folders named "rgb" and "thermal" to store the color image and the thermal image respectively, and each folder is divided into "test" and "train" folders. And we put the result after colmap in colmap/sparse.
+
+If you want to run our program, make sure to put the "sparse" folder in the same directory as the "rgb" folder and the "thermal" folder, as follows:
 
 ```
 <location>
